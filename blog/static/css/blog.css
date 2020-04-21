@@ -1,10 +1,10 @@
 h1 a, h2 a {
-    color: #C25100;
+    color: #3277a8;
     font-family: 'Lobster';
 }
 
 .page-header {
-    background-color: #C25100;
+    background-color: #3277a8;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -44,6 +44,7 @@ h1, h2, h3, h4 {
 
 .post {
     margin-bottom: 70px;
+    border: #000000 2px;
 }
 
 .post h2 a, .post h2 a:visited {
